@@ -13,10 +13,13 @@ import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 import NewspaperIcon from '@mui/icons-material/Newspaper';
 import SportsCricketIcon from '@mui/icons-material/SportsCricket';
+import ShopIcon from '@mui/icons-material/Shop';
 export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories=[
-    { name: "Trending",icon:<HomeIcon/>},
+  
+   
+   
     { name: 'Bit Stalker', icon: <CodeIcon />, },
     { name: 'News', icon: <NewspaperIcon />, },
     { name: 'CodeWithHarry', icon: <CodeIcon />, },
