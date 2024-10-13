@@ -14,7 +14,7 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 import NewspaperIcon from '@mui/icons-material/Newspaper';
 import SportsCricketIcon from '@mui/icons-material/SportsCricket';
 import ShopIcon from '@mui/icons-material/Shop';
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://pixabay.com/illustrations/youtube-short-icon-logo-7441044/';
 
 export const categories=[
   
